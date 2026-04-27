@@ -1,3 +1,7 @@
+---
+slug: /
+---
+
 # GlobiGuard business pack
 
 ## One-line answer
