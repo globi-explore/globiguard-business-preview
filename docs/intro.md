@@ -38,12 +38,12 @@ then you are building a category with higher switching costs, better expansion p
 
 ## File map
 
-- `01-what-business-globiguard-is-in.md`
-- `02-what-business-it-should-be-in.md`
-- `03-case-studies.md`
-- `04-business-model-and-sequencing.md`
-- `05-what-not-to-become.md`
-- `06-market-outcomes.md`
-- `07-open-source-boundary.md`
-- `08-cuda-analogy.md`
-- `09-final-verdict.md`
+- [01-what-business-globiguard-is-in.md](./what-business-globiguard-is-in)
+- [02-what-business-it-should-be-in.md](./what-business-it-should-be-in)
+- [03-case-studies.md](./case-studies)
+- [04-business-model-and-sequencing.md](./business-model-and-sequencing)
+- [05-what-not-to-become.md](./what-not-to-become)
+- [06-market-outcomes.md](./market-outcomes)
+- [07-open-source-boundary.md](./open-source-boundary)
+- [08-cuda-analogy.md](./cuda-analogy)
+- [09-final-verdict.md](./final-verdict)
